@@ -3,4 +3,4 @@ import reactDOM from 'react-dom';
 import clickyGame from './comonents/clickygame';
 import './index.css';
 
-reactDOM.render(<clickyGame /> document.getElementById('root'));
+reactDOM.render(<clickyGame />, document.getElementById('root'));
